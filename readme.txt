@@ -11,7 +11,7 @@ This is Jeba news ticker wordpress plugin. By using a simple shortcode easily ca
 
 == Description ==
 This is Jeba news ticker wordpress plugin. By using a simple [jeba_ticker] shortcode easily can use Jeba news ticker in your site. In this plugin easily control scroll time and can use multiple ticker. And also scroll news from everywhere by using post_type. 
-
+If you need any customize the news sticker contact with me via skype: abijahed19
 
 
 Visit: http://prowpexpert.com
